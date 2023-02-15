@@ -1,1 +1,0 @@
-#Atribua à variável c o valor da expressão a * a + b * b.
